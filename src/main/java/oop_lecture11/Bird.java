@@ -9,16 +9,8 @@ package oop_lecture11;
  *
  * @author LENOVA
  */
-public class Zoo {
-    public static void main(String[] args){
-    Animal animal1=new Animal(3,"F",5);
-    Animal animal2=new Animal(1,"M",2);
-    Bird birdy=new Bird();
-    animal1.sleep();
-    animal2.eat();
-    birdy.fly();
+public class Bird {
+    public void fly(){
+        System.out.println("I can fly , bye ...");
     }
-   
-    
-    
 }
