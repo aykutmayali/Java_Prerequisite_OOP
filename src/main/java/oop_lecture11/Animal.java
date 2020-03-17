@@ -9,7 +9,7 @@ package oop_lecture11;
  *
  * @author LENOVA
  */
-public class Animal {
+public abstract class Animal {
     int age;
     String gender;
     int weight;
@@ -26,4 +26,5 @@ public class Animal {
     public void sleep(){
         System.out.println("rrrrrrrrr......");
     }
+    public abstract void move();
 }
