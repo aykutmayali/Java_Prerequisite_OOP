@@ -17,9 +17,11 @@ public class Zoo {
     Fish fishy=new Fish(1,"F",1);
     animal1.sleep();
     animal2.eat();
-    birdy.fly();
+  //  birdy.fly();
     fishy.eat();
     birdy.sleep();
+    Sparrow jack=new Sparrow(10,"M",2);
+    jack.fly();
     }
    
     
