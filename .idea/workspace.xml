@@ -20,11 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54996739-f3da-415c-aa6c-bbe1c083500e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop_lecture11/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop_lecture11/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop_lecture11/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop_lecture11/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop_lecture11/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop_lecture11/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop_lecture11/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop_lecture11/Flyable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/oop_lecture11/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop_lecture11/Zoo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

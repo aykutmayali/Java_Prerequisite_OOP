@@ -34,7 +34,7 @@ public class Zoo {
     flyingBird.fly();
     
     }
-   public static void moveAnimal(Animal animal){ // passing variable animal instance variable(dory) that is pointing to the object that will created when thiss app run into that method,
+   public static void moveAnimal(Animal animal){ // passing variable animal instance variable(dory) that is pointing to the object that will created when this app run into that method,
         animal.move(); // polymorphism
    }
 }
