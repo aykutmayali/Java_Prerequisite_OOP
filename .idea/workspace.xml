@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54996739-f3da-415c-aa6c-bbe1c083500e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop_lecture17/LooppsPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop_lecture16/StringsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop_lecture16/StringsPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,20 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.StringsPractice">
+  <component name="RunManager" selected="Application.LooppsPractice">
+    <configuration name="LooppsPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_lecture17.LooppsPractice" />
+      <module name="Prerequisite_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop_lecture17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringsPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop_lecture16.StringsPractice" />
       <module name="Prerequisite_OOP" />
@@ -76,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LooppsPractice" />
         <item itemvalue="Application.StringsPractice" />
         <item itemvalue="Application.Zoo" />
       </list>
@@ -111,21 +125,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584452884838" />
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1584541835000">
+    <state width="1478" height="205" key="GridCell.Tab.0.bottom" timestamp="1584627416762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584541835000" />
-    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1584541835000">
+    <state width="1478" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584627416762" />
+    <state width="1478" height="205" key="GridCell.Tab.0.center" timestamp="1584627416762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584541835000" />
-    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1584541835000">
+    <state width="1478" height="205" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584627416762" />
+    <state width="1478" height="205" key="GridCell.Tab.0.left" timestamp="1584627416762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584541835000" />
-    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1584541835000">
+    <state width="1478" height="205" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584627416762" />
+    <state width="1478" height="205" key="GridCell.Tab.0.right" timestamp="1584627416762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584541835000" />
+    <state width="1478" height="205" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584627416762" />
   </component>
 </project>
