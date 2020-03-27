@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Prerequisite_OOP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Prerequisite_OOP_jar</output-path>
+    <root id="archive" name="Prerequisite_OOP.jar">
+      <element id="module-output" name="Prerequisite_OOP" />
+    </root>
+  </artifact>
+</component>
