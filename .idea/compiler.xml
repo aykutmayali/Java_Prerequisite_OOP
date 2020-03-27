@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Prerequisite_OOP" />
+        <module name="Java_Prerequisite_OOP" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Prerequisite_OOP" target="13" />
+      <module name="Java_Prerequisite_OOP" target="13" />
     </bytecodeTargetLevel>
   </component>
 </project>
