@@ -6,20 +6,40 @@ public class Application {
     public static void main(String[] args) throws FileNotFoundException {
       //  File file=new File("myFile.txt");
         File file=new File("myWrongFile");
-        FileReader fileReader=new FileReader(file);
-        BufferedReader bufferedReader=new BufferedReader(fileReader);
+        //FileReader fileReader=new FileReader(file);
+        //BufferedReader bufferedReader=new BufferedReader(fileReader);
         String line= null;
-        try {
+        try( FileReader fileReader=new FileReader(file);
+             BufferedReader bufferedReader=new BufferedReader(fileReader);
+                )
+        {
+       /* try {
             line = bufferedReader.readLine();
             while(line!=null){
                 System.out.println(line);
                 line = bufferedReader.readLine();
             }
-        } catch (IOException e) {
+        */
+            line = bufferedReader.readLine();
+            while(line!=null) {
+                System.out.println(line);
+                line = bufferedReader.readLine();
+            }
+        } catch (FileNotFoundException e) {
             e.printStackTrace();
-        } finally{
+        }
+
+        catch (IOException e) {
+            e.printStackTrace();
+        } /*finally{
             try {
-                bufferedReader.close();
+                if(bufferedReader !=null){
+                    bufferedReader.close();
+                }
+                if(fileReader !=null){
+                    fileReader.close();
+                }
+
             } catch (IOException e) {
                 e.printStackTrace();
                 System.out.println("Unable to close file ...");
@@ -27,6 +47,7 @@ public class Application {
                 System.out.println("file never opened " +ex);
             }
         }
+        */ //because of new kind try with resources are autoclosable no need more finally part here
 
     }
 }
