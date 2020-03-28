@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54996739-f3da-415c-aa6c-bbe1c083500e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop_lecture22_fileReader/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop_lecture25_Collections/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop_lecture22_fileReader/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop_lecture22_fileReader/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop_lecture22_fileReader/Application.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
