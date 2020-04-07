@@ -6,6 +6,13 @@ public class Vehicle {
     private Integer Year;
     private Integer Price;
 
+   /* public Vehicle(String brand, String model, Integer year, Integer price) {
+        this.Brand= brand;
+        this.Model = model;
+        this.Year = year;
+        this.Price = price;
+    } */
+
     public String getBrand() {
         return Brand;
     }

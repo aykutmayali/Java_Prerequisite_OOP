@@ -6,7 +6,8 @@ public class Dealership {
         cust1.setName("Tom");
         cust1.setAddress("123 strett base");
         cust1.setCashOnHand(32000);
-        Vehicle vehicle=new Vehicle();
+     //   Vehicle vehicle;
+        Vehicle vehicle = new Vehicle();
         vehicle.setBrand("Suzuki");
         vehicle.setModel("Vitara");
         vehicle.setYear(1995);
