@@ -23,6 +23,15 @@ public class Vehicles {
         this.price = price;
     }
 
+    @Override
+    public String toString() {
+        return "Vehicles{" +
+                "make='" + make + '\'' +
+                ", model='" + model + '\'' +
+                ", price=" + price +
+                '}';
+    }
+
     public String getMake() {
         return make;
     }

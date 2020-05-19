@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54996739-f3da-415c-aa6c-bbe1c083500e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testJunit/Hesapla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testJunit/ParametreTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Prerequisite_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Prerequisite_OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/Prerequisite_OOP_jar/Prerequisite_OOP.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Prerequisite_OOP_jar/Prerequisite_OOP.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop_lecture25_Collections/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop_lecture25_Collections/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop_lecture26/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop_lecture26/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop_lecture26/Vehicles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop_lecture26/Vehicles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +55,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Desktop/testproject API/Subje_Checklist-check4-2020_05_07_07_30" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="JUnit.ParametreTest">
-    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_lecture22_fileReader.Application" />
+  <component name="RunManager" selected="Application.Application (2)">
+    <configuration name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_lecture26.Application" />
       <module name="Java_Prerequisite_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop_lecture22_fileReader.*" />
+          <option name="PATTERN" value="oop_lecture26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_lecture26.Application" />
+    <configuration name="Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_lecture22_fileReader.Application2" />
       <module name="Java_Prerequisite_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop_lecture26.*" />
+          <option name="PATTERN" value="oop_lecture22_fileReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application (2)" />
+        <item itemvalue="Application.Application2" />
         <item itemvalue="JUnit.ParametreTest" />
         <item itemvalue="JUnit.ParametreTest.testmetrekareHesap" />
-        <item itemvalue="Application.Application (2)" />
         <item itemvalue="Application.Dealership" />
-        <item itemvalue="Application.Application (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -175,34 +174,34 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1585391586341">
+    <state x="0" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1589896688769">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585391586341" />
+    <state x="0" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589896688769" />
     <state x="544" y="159" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585308631000">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="544" y="159" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1585308631000" />
-    <state x="490" y="121" key="FileChooserDialogImpl" timestamp="1585308946670">
+    <state x="490" y="121" key="FileChooserDialogImpl" timestamp="1588842507270">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="490" y="121" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585308946670" />
-    <state width="990" height="207" key="GridCell.Tab.0.bottom" timestamp="1586796590941">
+    <state x="490" y="121" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588842507270" />
+    <state width="987" height="208" key="GridCell.Tab.0.bottom" timestamp="1589897347426">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="990" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586796590941" />
-    <state width="990" height="207" key="GridCell.Tab.0.center" timestamp="1586796590941">
+    <state width="987" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589897347426" />
+    <state width="987" height="208" key="GridCell.Tab.0.center" timestamp="1589897347426">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="990" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586796590941" />
-    <state width="990" height="207" key="GridCell.Tab.0.left" timestamp="1586796590941">
+    <state width="987" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589897347426" />
+    <state width="987" height="208" key="GridCell.Tab.0.left" timestamp="1589897347425">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="990" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586796590941" />
-    <state width="990" height="207" key="GridCell.Tab.0.right" timestamp="1586796590941">
+    <state width="987" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589897347425" />
+    <state width="987" height="208" key="GridCell.Tab.0.right" timestamp="1589897347426">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="990" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586796590941" />
+    <state width="987" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589897347426" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1584688052484">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

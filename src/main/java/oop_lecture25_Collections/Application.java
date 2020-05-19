@@ -28,7 +28,7 @@ public class Application {
         numbers.add(1000);
         numbers.add(35);
         numbers.add(200);
-        numbers.remove();
+        numbers.remove(); //first one removed
         for(int number:numbers){
             System.out.println(number);
         }
