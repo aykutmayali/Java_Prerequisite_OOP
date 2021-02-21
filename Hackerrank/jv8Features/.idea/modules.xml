@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TwoSumArray.iml" filepath="$PROJECT_DIR$/TwoSumArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jv8Features.iml" filepath="$PROJECT_DIR$/jv8Features.iml" />
     </modules>
   </component>
 </project>
