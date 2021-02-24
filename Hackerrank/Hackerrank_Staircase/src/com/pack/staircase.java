@@ -10,15 +10,15 @@ public class staircase {
         StringBuilder sb = new StringBuilder();
         int counter = 0;
 
-
-/*      // for direct increment
+        // for direct increment
+        /*
         for(int i = 0; i<n; i++){
             sb.append(hashtag);
             System.out.println(sb.toString());
         } */
 
         // for reverse increment
-        for(int i=0; i<n; i++){
+        /*       for(int i=0; i<n; i++){
             counter++;
             for(int k=n; k>=i; k--){
                 System.out.print(" ");
@@ -27,6 +27,28 @@ public class staircase {
                 System.out.print("#");
             }
             System.out.print("\n");
+        } */
+
+        /*  for(int i = 0; i < n; i++)
+        {
+            sb.append(" ");
+        }//Builds the a basic stair with no hashes
+
+        for(int i = 1; i< n+1; i++)
+        {
+            sb.setCharAt(n-i,'#');
+            System.out.println(sb);
+        }//Makes a longer step each iteration */
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(j<n-1-i){
+                    System.out.print(" ");
+                }else{
+                    System.out.print("#");
+                }
+            }
+            System.out.println("");
         }
     }
 
