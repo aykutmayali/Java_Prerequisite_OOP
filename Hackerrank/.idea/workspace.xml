@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be7ff2b2-c5ff-471e-a093-ec7bd31bf991" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Hackerrank_Array_LeftRotation/Hackerrank_Array_LeftRotation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hackerrank_CountValley/Hackerrank_CountValley.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hackerrank_RansomNote_HashTable/Hackerrank_RansomNote_HashTable.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hackerrank_RepeatedString/Hackerrank_RepeatedString.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hackerrank_ReverseString/Hackerrank_ReverseString.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hackerrank_Staircase/Hackerrank_Staircase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hackerrank_TwoDimArray/Hackerrank_TwoDimArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hackerrank_date_time/Hackerrank_date_time.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hackerrank_jump_clouds/Hackerrank_jump_clouds.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hackerrank_sales_by_match/Hackerrank_sales_by_match.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jv8Features/jv8Features.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ov6Mz0JX41zul4tYJuSYTobtkF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be7ff2b2-c5ff-471e-a093-ec7bd31bf991" name="Default Changelist" comment="" />
+      <created>1614154672878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614154672878</updated>
+      <workItem from="1614154674088" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

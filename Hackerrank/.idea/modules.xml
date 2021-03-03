@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hackerrank.iml" filepath="$PROJECT_DIR$/.idea/Hackerrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank_Array_LeftRotation/Hackerrank_Array_LeftRotation.iml" filepath="$PROJECT_DIR$/Hackerrank_Array_LeftRotation/Hackerrank_Array_LeftRotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank_CountValley/Hackerrank_CountValley.iml" filepath="$PROJECT_DIR$/Hackerrank_CountValley/Hackerrank_CountValley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank_RansomNote_HashTable/Hackerrank_RansomNote_HashTable.iml" filepath="$PROJECT_DIR$/Hackerrank_RansomNote_HashTable/Hackerrank_RansomNote_HashTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank_RepeatedString/Hackerrank_RepeatedString.iml" filepath="$PROJECT_DIR$/Hackerrank_RepeatedString/Hackerrank_RepeatedString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank_ReverseString/Hackerrank_ReverseString.iml" filepath="$PROJECT_DIR$/Hackerrank_ReverseString/Hackerrank_ReverseString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank_Staircase/Hackerrank_Staircase.iml" filepath="$PROJECT_DIR$/Hackerrank_Staircase/Hackerrank_Staircase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank_TwoDimArray/Hackerrank_TwoDimArray.iml" filepath="$PROJECT_DIR$/Hackerrank_TwoDimArray/Hackerrank_TwoDimArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank_TwoSumArray/Hackerrank_TwoSumArray.iml" filepath="$PROJECT_DIR$/Hackerrank_TwoSumArray/Hackerrank_TwoSumArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank_date_time/Hackerrank_date_time.iml" filepath="$PROJECT_DIR$/Hackerrank_date_time/Hackerrank_date_time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank_jump_clouds/Hackerrank_jump_clouds.iml" filepath="$PROJECT_DIR$/Hackerrank_jump_clouds/Hackerrank_jump_clouds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerrank_sales_by_match/Hackerrank_sales_by_match.iml" filepath="$PROJECT_DIR$/Hackerrank_sales_by_match/Hackerrank_sales_by_match.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackkerank_Mini-Max-Sum/Hackkerank_Mini-Max-Sum.iml" filepath="$PROJECT_DIR$/Hackkerank_Mini-Max-Sum/Hackkerank_Mini-Max-Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Palindrome/Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jv8Features/jv8Features.iml" filepath="$PROJECT_DIR$/jv8Features/jv8Features.iml" />
+    </modules>
+  </component>
+</project>
